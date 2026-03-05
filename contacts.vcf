@@ -1,0 +1,6 @@
+BEGIN:VCARD
+VERSION:3.0
+EMAIL;TYPE=home:mail@example.com
+FN:Example Email
+N:;;;;
+END:VCARD
